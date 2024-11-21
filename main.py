@@ -1,4 +1,4 @@
 print("rangaaaaaaa")
 print("rangaa")
-print("vicky masssss")
+print("vicky massss")
 print("hi")

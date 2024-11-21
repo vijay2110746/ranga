@@ -1,3 +1,3 @@
 print("ranga")
-print("rangaaaaaa")
+print("rangaa")
 print("vicky mass")
